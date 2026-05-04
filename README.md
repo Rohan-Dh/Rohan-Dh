@@ -107,9 +107,6 @@ That’s the kind of engineering I like doing.
 ## 📫 Connect
 
 - GitHub: [@your-github-username](https://github.com/your-github-username)
-
----
-
 > I like building systems that keep working when things get complicated.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rohan-Dh)](https://git.io/streak-stats)
